@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "EH8FWZFDoKfdfX/AC1pFP/itVximrOVf++ri8Y14czxpxsm/lmoYxsFJjNiP6dC8DiyaqJdrm5auJe50Z57udw==",
+  "dgSpecHash": "/sjQWuMK+oTlBecJpJmdam+1FLWKT8p3ajYtxaUbmEANulSzmkOMwU6iPBEbW9eH39svXb0/dBRbvxCKJeQpLw==",
   "success": true,
   "projectFilePath": "/Users/leonardoriveraalmendarez/PruebaApi/PruebaApi.csproj",
   "expectedPackageFiles": [
+    "/Users/leonardoriveraalmendarez/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.0-rc.2.23480.2/microsoft.aspnetcore.jsonpatch.8.0.0-rc.2.23480.2.nupkg.sha512",
+    "/Users/leonardoriveraalmendarez/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.13/microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/Users/leonardoriveraalmendarez/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/leonardoriveraalmendarez/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/leonardoriveraalmendarez/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
