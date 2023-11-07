@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tax/oPzgzxitVV+CRFYbeg5hflStFmDo7qOujgxsQvjiVYuXBT/rtLp+f61VqMGZ1EG3UhiiIpxjef27vbJodA==",
+  "dgSpecHash": "xJcXvwTmPpwR4Qed4KSYQwy9NXg8swrJxkbO0gaO743eRZ/J4NkQeg5hfhhiQBvCA3RbXn0VX/prb7h8tCEGew==",
   "success": true,
   "projectFilePath": "/Users/leonardoriveraalmendarez/PruebaApi/PruebaApi.csproj",
   "expectedPackageFiles": [
+    "/Users/leonardoriveraalmendarez/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/leonardoriveraalmendarez/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/leonardoriveraalmendarez/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
